@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-abandonada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Piel abandonada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-abandonada/) |
+| **Get License** | [License this song: Piel abandonada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-abandonada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dímelo, dímelo otra vez
+> Tu piel abandonada pide más de mi piel
+> Cuando baja el sol y enciende el placer
+> Solo tú y yo, nadie puede entender
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
