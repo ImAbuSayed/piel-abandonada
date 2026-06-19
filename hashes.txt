@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel abandonada
+
+This log tracks the cryptographic history and versioning for the song **Piel abandonada** (piel-abandonada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T21:39:01.418455 | `v1` | `6644e1fc7cf081ba1ce73ccb60fdb63383ada3f258ee05598c8f6d5d4c6c9d20` | `bc27709e8ae849147603f804d22f4fb9b109405639702d92de015fb4846cd0ca` | `2026-06-19_piel-abandonada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

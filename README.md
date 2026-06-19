@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-abandonada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel abandonada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-abandonada/) |
+| **Get License** | [Official Music Licensing for Piel abandonada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-abandonada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6644e1fc7cf081ba1ce73ccb60fdb63383ada3f258ee05598c8f6d5d4c6c9d20` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
